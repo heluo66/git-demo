@@ -3,7 +3,7 @@ hello wbq!  hot fix change
 hello wbq!  hot fix change
 hello xjc!  
 hello xjc!  hot-fix second change
-hello xjc!
+hello xjc!  hot-fix second change
 hello xjc!  master second change
 hello xjc!  master second change
 hello xjc!  master second change
