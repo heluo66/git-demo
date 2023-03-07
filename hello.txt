@@ -4,8 +4,8 @@ hello wbq!  hot fix change
 hello xjc!
 hello xjc!
 hello xjc!
-hello xjc!
-hello xjc!
+hello xjc!  master second change
+hello xjc!  master second change
 hello xjc!
 hello xjc!
 hello xjc!
