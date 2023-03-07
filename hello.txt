@@ -8,7 +8,7 @@ hello xjc!  master second change
 hello xjc!  master second change
 hello xjc!  master second change
 hello xjc!
-hello xjc!  hot-fix third change  master third change
+hello xjc!  hot-fix third change  master third change  hot-fix third change
 hello xjc!
 hello xjc!
 hello xjc!
